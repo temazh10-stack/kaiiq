@@ -1,0 +1,11 @@
+/includes/config.php
+/includes/printful_config.php
+/cache/*
+!/cache/.gitkeep
+.env
+.env.*
+*.log
+*.bak
+*.zip
+.DS_Store
+Thumbs.db
